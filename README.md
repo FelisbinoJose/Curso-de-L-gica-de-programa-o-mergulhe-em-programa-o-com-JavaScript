@@ -14,3 +14,6 @@
 
 # Plano de ensino
 
+### 22/02/2026 - [1a aula](https://github.com/FelisbinoJose/Curso-de-L-gica-de-programa-o-mergulhe-em-programa-o-com-JavaScript/tree/1a-aula)
+
+- Iniciando com JavaScript.
