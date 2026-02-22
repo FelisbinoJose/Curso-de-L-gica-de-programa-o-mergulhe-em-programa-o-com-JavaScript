@@ -25,3 +25,7 @@
 ### 22/02/2026 - [3a aula](https://github.com/FelisbinoJose/Curso-de-L-gica-de-programa-o-mergulhe-em-programa-o-com-JavaScript/tree/3a-aula)
 
 - Loops e tentativas.
+
+### 22/02/2026 - [4a aula](https://github.com/FelisbinoJose/Curso-de-L-gica-de-programa-o-mergulhe-em-programa-o-com-JavaScript/tree/4a-aula)
+
+- Boas práticas de programação.
