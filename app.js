@@ -10,6 +10,10 @@ console.log('Resultado da comparação:', chute == numeroSecreto);
 if (chute == numeroSecreto) {
     alert('Acertou');
 } else {
-    console.log('Valor do número secreto:', numeroSecreto);
-    alert('O número secreto era ' + numeroSecreto);
+    
+    if (chute > numeroSecreto) {
+        alert(`O número secreto é menor que ${chute}`);
+    } else {
+        alert(`O número secreto é maior que ${chute}`);
+    }
 }
