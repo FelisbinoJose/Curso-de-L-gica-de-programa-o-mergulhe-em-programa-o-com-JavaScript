@@ -21,3 +21,7 @@
 ### 22/02/2026 - [2a aula](https://github.com/FelisbinoJose/Curso-de-L-gica-de-programa-o-mergulhe-em-programa-o-com-JavaScript/tree/2a-aula)
 
 - Condicionais e concatenação.
+
+### 22/02/2026 - [3a aula](https://github.com/FelisbinoJose/Curso-de-L-gica-de-programa-o-mergulhe-em-programa-o-com-JavaScript/tree/3a-aula)
+
+- Loops e tentativas.
